@@ -5,6 +5,10 @@ draft: false
 ---
 # Sample `lorem ipsum` or more like `lorem barnack` (i'm not sure tho)
 
+Here's a `GIF` from the Anime `Your Name` / `Kimi no Na wa` / `君の名は` 
+
+![](assets\20230223_002141_anime.gif)
+
 Purée de câline de bâtard de👍 baptême de torvisse de patente à gosse de crucifix de colon de boswell de sapristi.
 Cibouleau de torvisse de ciboire de saintes fesses de viande à chien de cimonaque de bout d'crisse de saint-sacrament d'étole de sapristi.
 Ostie de mangeux d'marde de cibouleau de calvince de gériboire de charrue de purée de crisse de cimonaque de calvaire.

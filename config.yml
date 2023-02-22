@@ -5,14 +5,14 @@ theme: "PaperModX"
 
 params:
   defaultTheme: auto
-  
+
   homeInfoParams:
         Title: Hi
         Content: I'm adenosinetp10
 
   socialIcons: # optional
       - name: "Telegram"
-        url: "t.me/adenosinetp10"
+        url: "https://t.me/adenosinetp10"
       - name: "GitHub"
-        url: "github.com/adenosinetp10"
-  
+        url: "https://github.com/adenosinetp10"
+

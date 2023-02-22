@@ -5,6 +5,7 @@ theme: "PaperModX"
 
 params:
   defaultTheme: auto
+  TocSide: 'right'
 
   homeInfoParams:
         Title: Hi

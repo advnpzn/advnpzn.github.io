@@ -9,7 +9,7 @@ params:
 
   homeInfoParams:
         Title: Hi
-        Content: I'm adenosinetp10
+        Content: On the Internet I go by the name `adenosinetp10` mostly. I like coding, watching anime and reading comics. I like to play computer games as well, mostly single player ones.
 
   socialIcons: # optional
       - name: "Telegram"

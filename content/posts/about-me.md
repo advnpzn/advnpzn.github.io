@@ -6,4 +6,4 @@ draft: false
 
 ## Hello :)
 
- - I'm `adenosinetp10`
+- On the Internet I go by the name `adenosinetp10` mostly. I like coding, watching anime and reading comics. I like to play computer games as well, mostly single player ones.

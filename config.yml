@@ -3,11 +3,13 @@ languageCode: en-us
 title: adenosinetp10
 theme: "PaperModX"
 
+enableRobotsTXT: true
+
 outputs:
   home:
     - HTML
     - RSS
-    - JSON # is necessary
+    - JSON
 
 params:
   defaultTheme: auto
@@ -33,7 +35,7 @@ params:
         url: "https://github.com/adenosinetp10"
       - name: "HackerRank"
         url: "https://hackerrank.com/adenosinetp10"
-      - name: "AniList-simple"
+      - name: "AniList"
         url: "https://anilist.co/adenosinetp10"
 
 

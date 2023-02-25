@@ -11,7 +11,11 @@ outputs:
 
 params:
   defaultTheme: dark
-  TocSide: 'right'
+
+params:
+  TocSide: 'left'
+
+  ShowShareButtons: true
 
   homeInfoParams:
         Title: Hi
@@ -28,3 +32,23 @@ params:
       - name: "GitHub"
         url: "https://github.com/adenosinetp10"
 
+
+menu:
+  main:
+
+    - name: "Cool Sites"
+      url: "/cool-sites"
+      params:
+        external: false
+
+    - name: "Posts"
+      url: "/posts"
+      params:
+        external: false
+
+    - name: "Memes"
+      url: "/memes"
+      params:
+        external: false
+
+    

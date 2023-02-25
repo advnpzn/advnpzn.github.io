@@ -2,11 +2,6 @@
 title: "roadmap.sh"
 date: 2023-02-25T15:38:08+05:30
 description: 'Cool site to see pathways for several roles in the developer field.'
-
-params:
-  ShowShareButtons: true
-
-
 draft: false
 ---
 ### `roadmap.sh`

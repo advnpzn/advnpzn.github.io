@@ -27,7 +27,7 @@ params:
             I like to play computer games as well, mostly single player ones.
 
   socialIcons: # optional
-      - name: "Telegram"
+      - name: "Telegram-simple"
         url: "https://t.me/adenosinetp10"
       - name: "GitHub-simple"
         url: "https://github.com/adenosinetp10"

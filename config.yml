@@ -3,8 +3,14 @@ languageCode: en-us
 title: adenosinetp10
 theme: "PaperModX"
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
 params:
-  defaultTheme: auto
+  defaultTheme: dark
   TocSide: 'right'
 
   homeInfoParams:

@@ -10,7 +10,7 @@ outputs:
     - JSON # is necessary
 
 params:
-  defaultTheme: dark
+  defaultTheme: auto
 
 params:
   TocSide: 'left'

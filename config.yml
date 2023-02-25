@@ -29,10 +29,12 @@ params:
   socialIcons: # optional
       - name: "Telegram"
         url: "https://t.me/adenosinetp10"
-      - name: "GitHub"
+      - name: "GitHub-simple"
         url: "https://github.com/adenosinetp10"
       - name: "HackerRank"
         url: "https://hackerrank.com/adenosinetp10"
+      - name: "AniList-simple"
+        url: "https://anilist.co/adenosinetp10"
 
 
 menu:

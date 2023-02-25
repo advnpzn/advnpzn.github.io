@@ -1,13 +1,14 @@
 ---
 title: "NLP Demystified"
 date: 2023-02-25T15:29:19+05:30
+description: 'A free, comprehensive course to turn you into an NLP expert'
 draft: false
 ---
-
 ### `NLP Demystified`
+
 ---
-![Alt text](img.png)
-#### A free, comprehensive course to turn you into an NLP expert
+
+![image](assets/img.png)
 
 #### Theory and concepts clearly explained
 
@@ -17,7 +18,4 @@ Get a solid grounding in NLP from 15 modules of content covering everything from
 
 Start from raw data and learn to build classifiers, taggers, language models, translators, and more through nine fully-documented notebooks. Get exposure to a wide variety of tools and code you can use in your own projects.
 
-
 #### Link : [here](https://www.nlpdemystified.org/)
-
-

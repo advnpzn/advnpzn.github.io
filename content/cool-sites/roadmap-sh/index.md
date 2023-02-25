@@ -9,6 +9,6 @@ draft: false
 **`roadmap.sh`** is a community effort to create roadmaps, guides and
 other educational content to help guide the developers in picking up the path and guide their learnings.
 
-![](assets/20230225_154340_image.png)
+![image](assets/20230225_154340_image.png)
 
 #### Link : [here](https://roadmap.sh/)

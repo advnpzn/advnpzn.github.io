@@ -5,7 +5,7 @@ description: 'Cool site to see pathways for several roles in the developer field
 draft: false
 
 cover:
-  image: assets/20230225_154340_image.png
+  image: './assets/20230225_154340_image.png'
   alt: "roadmap"
   caption: "roadmap.sh"
   relative: false

@@ -31,6 +31,8 @@ params:
         url: "https://t.me/adenosinetp10"
       - name: "GitHub"
         url: "https://github.com/adenosinetp10"
+      - name: "HackerRank"
+        url: "https://hackerrank.com/adenosinetp10"
 
 
 menu:

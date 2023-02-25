@@ -35,8 +35,14 @@ params:
         url: "https://github.com/adenosinetp10"
       - name: "HackerRank"
         url: "https://hackerrank.com/adenosinetp10"
-      - name: "AniList"
+      - name: "anilist-simple"
         url: "https://anilist.co/user/adenosinetp10"
+      - name: "GitLab"
+        url: "https://gitlab.com/adenosinetp10"
+      - name: "RSS"
+        url: "index.xml"
+      - name: "GMail"
+        url: "mailto:adenosinetp10@gmail.com"
 
 
 menu:

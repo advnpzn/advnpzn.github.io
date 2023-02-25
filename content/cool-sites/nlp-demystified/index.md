@@ -3,14 +3,9 @@ title: "NLP Demystified"
 date: 2023-02-25T15:29:19+05:30
 description: 'A free, comprehensive course to turn you into an NLP expert'
 draft: false
-
-cover:
-  image: assets/img.png
-  alt: "nlp"
-  caption: "NLP Demystified"
-  relative: false
 ---
 ### `NLP Demystified`
+![nlp](assets/img.png)
 
 #### Theory and concepts clearly explained
 

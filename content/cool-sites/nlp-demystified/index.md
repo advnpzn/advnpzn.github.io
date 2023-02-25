@@ -1,8 +1,14 @@
 ---
 title: "NLP Demystified"
+author: "adenosinetp10"
 date: 2023-02-25T15:29:19+05:30
 description: 'A free, comprehensive course to turn you into an NLP expert'
 draft: false
+tags:
+  - site
+  - nlp
+  - machine-learning
+  - language
 ---
 ### `NLP Demystified`
 ![nlp](assets/img.png)

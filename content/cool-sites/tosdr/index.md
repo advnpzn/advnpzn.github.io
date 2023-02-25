@@ -3,6 +3,11 @@ title: "Tosdr"
 date: 2023-02-25T17:58:40+05:30
 description: 'A website to read short modified version of the ToS for various apps and websites.'
 draft: false
+tags:
+  - site
+  - terms-of-service
+  - concise
+  - agreement
 ---
 ## `tosdr`
 

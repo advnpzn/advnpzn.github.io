@@ -15,7 +15,6 @@ params:
   defaultTheme: auto
 
 params:
-  TocSide: 'left'
 
   ShowShareButtons: true
 
@@ -67,6 +66,11 @@ menu:
 
     - name: "Memes"
       url: "/memes"
+      params:
+        external: false
+
+    - name: "About Me"
+      url: "/about-me"
       params:
         external: false
 

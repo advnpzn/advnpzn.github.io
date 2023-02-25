@@ -39,23 +39,7 @@ That traditional way of mine is basically,</p>
 <p>I guess, I still stay on telegram because I like the programming community there. Made lots of acquaintances, laughed together, shit on others together, memed together and it was fun and it still is.</p>
 <p>Also, I like the the unlimited storage that they are giving. I mean the popular messaging platform &ldquo;Discord&rdquo; offers like 8 MiB per file lol. Meanwhile, Telegram offers, if I remember correctly, it&rsquo;s around 1.5 GiB per file. The difference is insane.</p>
 
-    <style type="text/css">
-      .twitter-tweet {
-        font: 14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
-        border-left: 4px solid #2b7bb9;
-        padding-left: 1.5em;
-        color: #555;
-      }
-      .twitter-tweet a {
-        color: #2b7bb9;
-        text-decoration: none;
-      }
-      blockquote.twitter-tweet a:hover,
-      blockquote.twitter-tweet a:focus {
-        text-decoration: underline;
-      }
-    </style>
-  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">me, trying to understand how people use apps without unlimited cloud storage 🤔 <a href="https://t.co/fvzNtZkXcp">pic.twitter.com/fvzNtZkXcp</a></p>&mdash; Telegram Messenger (@telegram) <a href="https://twitter.com/telegram/status/1629118956404412418?ref_src=twsrc%5Etfw">February 24, 2023</a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">me, trying to understand how people use apps without unlimited cloud storage 🤔 <a href="https://t.co/fvzNtZkXcp">pic.twitter.com/fvzNtZkXcp</a></p>&mdash; Telegram Messenger (@telegram) <a href="https://twitter.com/telegram/status/1629118956404412418?ref_src=twsrc%5Etfw">February 24, 2023</a></blockquote>
 
 <h3 id="what-i-dislike">What I dislike</h3>
 <p>There are a lot of things I dislike, like there are a lot of &ldquo;crypto bros&rdquo; in the platform, who will try their hard to make you to invest in some obscure never ever heard of coin. They are annoying.</p>
@@ -72,8 +56,8 @@ Purée de câline de bâtard de👍 baptême de torvisse de patente à gosse de 
 Cibouleau de torvisse de ciboire de saintes fesses de viande à chien de cimonaque de bout d&rsquo;crisse de saint-sacrament d&rsquo;étole de sapristi.
 Ostie de mangeux d&rsquo;marde de cibouleau de calvince de gériboire de charrue de purée de crisse de cimonaque de calvaire.</p>
 <p>Here&rsquo;s a little python code :</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">for</span> i <span style="color:#f92672">in</span> range(<span style="color:#ae81ff">10</span>):
-</span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;lorem ipsum&#34;</span>)
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;lorem ipsum&#34;</span><span class="p">)</span>
 </span></span></code></pre></div><h2 id="étole-de-gériboire-de-mosus-de-crucifix-de-saint-ciarge-de-boswell-de-saint-sacrament-denfant-dchienne-de-torvisse-de-jésus-de-plâtre">Étole de gériboire de mosus de crucifix de saint-ciarge de boswell de saint-sacrament d&rsquo;enfant d&rsquo;chienne de torvisse de Jésus de plâtre.</h2>
 <h2 id="paragraph">paragraph</h2>
 <p>Ciboire de christie de p&rsquo;tit Jésus de verrat de charogne de bâtard de cimonaque de calvaire de Jésus Marie Joseph de cibole.</p>
@@ -101,8 +85,8 @@ Cossin de câliboire de viande à chien d&rsquo;étole de bout d&rsquo;viarge de
 </tbody>
 </table>
 <p>Sacristi de batèche de sapristi de câline de bâtard de calvinouche de ciboire de câlisse de sainte-viarge d&rsquo;enfant d&rsquo;chienne.</p>
-<p>Hello does <!-- raw HTML omitted -->Mark<!-- raw HTML omitted --> work ?????
+<p>Hello does <mark>Mark</mark> work ?????
 ~Patente à gosse de charogne de saintes fesses d&rsquo;étole de tabarouette de verrat de baptême de calvaire de sacristi de cibouleau.~
 <em>Esprit de cibouleau de charrue de baptême de saint-ciarge d&rsquo;astie de torrieux de purée de ciboire d&rsquo;enfant d&rsquo;chienne.</em></p>
-<p>Press <!-- raw HTML omitted -->CTRL<!-- raw HTML omitted --> + <!-- raw HTML omitted -->F4<!-- raw HTML omitted --></p>
+<p>Press <kbd>CTRL</kbd> + <kbd>F4</kbd></p>
 ]]></content:encoded></item></channel></rss>

@@ -69,9 +69,56 @@ menu:
       params:
         external: false
 
+    - name: "Archive"
+      url: "/archives"
+      params:
+        external: false
+
+    - name: "Search"
+      url: "/search"
+      params:
+        external: false
+
     - name: "About Me"
       url: "/about-me"
       params:
         external: false
 
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula
+    lineNos: false
+    noClasses: false
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
     

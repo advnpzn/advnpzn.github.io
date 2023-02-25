@@ -1,4 +1,5 @@
 :root {
+    --primary: rgb(0,0,0);
     --link-color: var(--primary);
     --link-hover-color: #154ee9;
     --link-underline-shadow: 0 1px 0 var(--link-color);
@@ -7,10 +8,12 @@
   }
   
 .dark {
+--primary: rgb(255, 255, 255);
 --link-color: var(--primary);
 --link-hover-color: #15dd40;
 --link-underline-shadow: 0 1px 0 var(--link-color);
 --link-hover-underline-color: #16bb48;
 --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+--secondary: rgb(255, 255, 255);
 }
   

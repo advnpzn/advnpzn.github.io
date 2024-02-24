@@ -76,8 +76,6 @@ I guess, I still stay on telegram because I like the programming community there
 
 Also, I like the the unlimited storage that they are giving. I mean the popular messaging platform "Discord" offers like 8 MiB per file lol. Meanwhile, Telegram offers, if I remember correctly, it's around 1.5 GiB per file. The difference is insane.
 
-{{< twitter_simple 1629118956404412418 >}}
-
 ### What I dislike
 
 There are a lot of things I dislike, like there are a lot of "crypto bros" in the platform, who will try their hard to make you to invest in some obscure never ever heard of coin. They are annoying.

@@ -1,0 +1,12 @@
+baseURL: https://advnpzn.github.io/
+languageCode: en-us
+title: advnpzn
+paginate: 5
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:

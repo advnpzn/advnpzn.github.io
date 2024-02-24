@@ -10,3 +10,15 @@ buildFuture: false
 buildExpired: false
 
 params:
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: Hii! 😊
+    Content: Professionally, I manipulate information by casting intricate spells, kinda like a wizard. I also have interests in anything engineering related.
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/advnpzn"
+    - name: "Gitlab"
+      url: "https://gitlab.com/nekomenace"
+    - name: "Telegram"
+      url: "https://t.me/advnpzn"

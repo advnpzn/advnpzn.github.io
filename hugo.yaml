@@ -11,8 +11,6 @@ buildExpired: false
 
 params:
   defaultTheme: auto
-  ShowShareButtons: true
-  ShareButtons: ["linkedin", "twitter", "telegram"]
 
   homeInfoParams:
     Title: Hii! 😊

@@ -22,3 +22,26 @@ params:
       url: "https://gitlab.com/nekomenace"
     - name: "Telegram"
       url: "https://t.me/advnpzn"
+
+menu:
+  main:
+    - identifier: stuff
+      name: stuff
+      url: /projects/
+      weight: 10
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 20
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 30
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 40
+    - identifier: about me
+      name: about me
+      url: /about-me/
+      weight: 50

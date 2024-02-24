@@ -11,6 +11,8 @@ buildExpired: false
 
 params:
   defaultTheme: auto
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter", "telegram"]
 
   homeInfoParams:
     Title: Hii! 😊
@@ -22,6 +24,10 @@ params:
       url: "https://gitlab.com/nekomenace"
     - name: "Telegram"
       url: "https://t.me/advnpzn"
+    - name: "email"
+      url: "mailto:adenosinetp10@protonmail.com"
+    - name: "AniList"
+      url: "https://anilist.co/user/mitochondria"
 
 menu:
   main:

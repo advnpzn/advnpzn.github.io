@@ -10,7 +10,15 @@ buildFuture: false
 buildExpired: false
 
 params:
+  env: production
   defaultTheme: auto
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  ShowPageNums: true
+
+  markup:
+    highlight:
+      style: monokai
 
   homeInfoParams:
     Title: Hii! 😊

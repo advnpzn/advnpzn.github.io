@@ -133,6 +133,7 @@ Now, if you open that `vcpkg.json` file, you can see that the dependency we adde
 Make sure you have `cmake` installed beforehand along with something like `make` or `ninja`. Since this is a small demo project, we can have the following in our demo project.
 
 `CMakeLists.txt`
+```
 cmake_minimum_required(VERSION 3.12)
 
 project("demo")

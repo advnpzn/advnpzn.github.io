@@ -1,6 +1,6 @@
 ---
 title: "vcpkg - C++ Package manager"
-summary: Managing dependencies for your C++ projects were always cumbersome, or is it ?
+summary: Managing dependencies for your C++ projects is always cumbersome, or is it ?
 author: "advnpzn"
 date: 2024-03-30T00:53:07+05:30
 draft: false

@@ -1,6 +1,8 @@
 ---
 title: 'First time using zstd'
 date: 2024-11-26T21:50:00+05:30
+summary: I came to know about zstd today and I already like it personally. I'm never looking back.
+author: "advnpzn"
 draft: false
 toc: true
 tocBorder: true
@@ -14,7 +16,7 @@ Not gonna lie, but `zstd` is kinda cool to me.
 
 Why ?
 
-Because it is a lot faster than some compression algorithms like `gzip` while still maining the same compression ratio. I kind of feel bad that I only got to know about this today, while skimming through the internet to see how I can reduce the size of the `*.tar.gz` file that I created. I usually use `gzip` because I haven't really had a reason to look out for options to be honest.
+Because it is a lot faster than some compression algorithms like `gzip` while still maintaining the same compression ratio. I kind of feel bad that I only got to know about this today, while skimming through the internet to see how I can reduce the size of the `*.tar.gz` file that I created. I usually use `gzip` because I haven't really had a reason to look out for options to be honest.
 
 `gzip` is based on the [DEFLATE](https://en.wikipedia.org/wiki/Deflate) algorithm.
 

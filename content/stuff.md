@@ -2,6 +2,7 @@
 summary: some stuff I created
 draft: false
 url: "/projects/"
+date: 2024-03-02T11:24:00+05:30
 ---
 
 ### Akinator [`Python`, `Telegram`, `Bot`]

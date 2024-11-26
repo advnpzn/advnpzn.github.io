@@ -4,16 +4,12 @@ summary: Here I talk about how I came to know about telegram and why I continued
 author: "advnpzn"
 date: 2023-02-25T19:01:07+05:30
 draft: false
-ShowToc: true
-TocOpen: true
-TocSide: 'right'
-tags:
-  - telegram
-  - social media
-  - messenger
-  - internet
+toc: true
+tocBorder: true
 ---
-## `Telegram`
+## Telegram
+
+### What is it ?
 
 For those who has never heard of this word, let me tell you what it is. [Telegram Messenger](https://telegram.org) which in short is called 'Telegram' is an internet instant messaging app.
 
@@ -21,7 +17,7 @@ For those who has never heard of this word, let me tell you what it is. [Telegra
 
 One could talk to their contacts through Telegram if they also happen to have that app. One could create/join groups, channels where they could chat with others and share anything. So, basically it's pretty much like any other instant messaging app.
 
-### How I came to know about Telegram
+## How I came to know about Telegram
 
 Like, how every tale goes, once upon a time, I was very bored and all I had at the moment was my dad's android smartphone with me in the house. I used to play games like Subway Surfers, Temple Run, Angry Birds, Clash of Clans and so on... In a word, It was the golden era for android games 🔥 where you could find quality games. I was going through the Google Play Store looking for something to download. This is where I got recommended to download this app called "Telegram". I knew it was an instant messaging app, but never used it before. I assumed it would be similar to Facebook/Whatsapp, so downloaded it to check out what it's all about.
 
@@ -84,6 +80,6 @@ And I have a slightly negative view on the Introduction of Premium plan to teleg
 
 Telegram doesn't have E2E (End to End) Encryption by default for Groups and Channels and they use their own in-house encryption protocol, the MTProto. E2E encrytion is supported for private messages if and only if you enable Secret Chats. I know most people say this point as one of the negative points of telegram. I somewhat I agree with that along with the fact that only the client side is opensource. Well, I don't blame them, it's how it is.
 
-### Conclusion
+## Conclusion
 
 Telegram is growing at a fast rate in the category of instant messaging. That means people took a liking to Telegram and what it offers to its users (I hope it's not piracy 👀️). Telegram is here to stay for the foreseeable future.

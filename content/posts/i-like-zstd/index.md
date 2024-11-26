@@ -18,7 +18,7 @@ Why ?
 
 Because it is a lot faster than some compression algorithms like `gzip` while still maintaining the same compression ratio. I kind of feel bad that I only got to know about this today, while skimming through the internet to see how I can reduce the size of the `*.tar.gz` file that I created. I usually use `gzip` because I haven't really had a reason to look out for options to be honest.
 
-`gzip` is based on the [DEFLATE](https://en.wikipedia.org/wiki/Deflate) algorithm.
+`gzip` is based on the [DEFLATE](https://en.wikipedia.org/wiki/Deflate) format that uses a combination of LZ77 and Huffman coding.
 
 ## Tests
 I've even done a small test to see which performs better b/w `gzip` & `zstd`.

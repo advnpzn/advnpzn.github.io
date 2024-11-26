@@ -1,5 +1,5 @@
 ---
-title: 'First time using zstd'
+title: 'using zstd for the first time'
 date: 2024-11-26T21:50:00+05:30
 summary: I came to know about zstd today and I already like it personally. I'm never looking back.
 author: "advnpzn"

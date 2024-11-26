@@ -1,5 +1,5 @@
 ---
-title: "Why I Use Telegram"
+title: "why i use telegram"
 summary: Here I talk about how I came to know about telegram and why I continued to use it as my daily instant messaging app. 
 author: "advnpzn"
 date: 2023-02-25T19:01:07+05:30

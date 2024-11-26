@@ -1,5 +1,5 @@
 ---
-title: "WSL2 - Increase Memory"
+title: "increasing memory in wsl2"
 summary: Increase the amount of RAM allocated to your WSL2 distros. 
 author: "advnpzn"
 date: 2024-03-12T23:05:00+05:30

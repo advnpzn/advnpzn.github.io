@@ -1,7 +1,7 @@
 ---
-title: 'using zstd for the first time'
+title: 'zstd is cool'
 date: 2024-11-26T21:50:00+05:30
-summary: I came to know about zstd today and I already like it personally. I'm never looking back.
+summary: I came to know about zstd today and I already like it personally.
 author: "advnpzn"
 draft: false
 toc: true

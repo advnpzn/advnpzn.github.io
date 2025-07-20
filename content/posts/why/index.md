@@ -39,7 +39,7 @@ Now that's a lot of "certain".. But seriously, why?
 
 Why are we able to perform breathing without explicitly trying to do so?
 
-Why do Pizzas come in square boxes instead of a circular circular?
+Why do Pizzas come in square boxes instead of a circular circle?
 
 Why are buildings called "buildings" when they are already built ?
 
